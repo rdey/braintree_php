@@ -166,7 +166,7 @@
  *
  */
 
-final class Braintree_Transaction extends Braintree
+class Braintree_Transaction extends Braintree
 {
     // Transaction Status
     const AUTHORIZATION_EXPIRED    = 'authorization_expired';
